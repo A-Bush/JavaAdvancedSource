@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Student age="22" sex="MALE">
+    <name>Alex</name>
+    <surname>Moren</surname>
+</Student>

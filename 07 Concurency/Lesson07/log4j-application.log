@@ -1,0 +1,843 @@
+2015-08-21 13:47:41 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:47:41 INFO  ThreadEx:27 - Anonymous Thread running
+2015-08-21 13:55:14 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:55:14 INFO  Main:51 - Runned by: MyThread
+2015-08-21 13:55:14 INFO  Main:40 - Anonymous Runnable running!
+2015-08-21 13:55:14 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:55:14 INFO  Main:27 - Anonymous Thread running
+2015-08-21 13:55:55 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:55:55 INFO  Main:51 - Runned by: MyThread
+2015-08-21 13:55:55 INFO  Main:40 - Anonymous Runnable running!
+2015-08-21 13:55:55 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:55:55 INFO  Main:27 - Anonymous Thread running
+2015-08-21 13:55:57 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:55:57 INFO  Main:51 - Runned by: MyThread
+2015-08-21 13:55:57 INFO  Main:40 - Anonymous Runnable running!
+2015-08-21 13:55:57 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:55:57 INFO  Main:27 - Anonymous Thread running
+2015-08-21 13:55:59 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:55:59 INFO  Main:51 - Runned by: MyThread
+2015-08-21 13:55:59 INFO  Main:40 - Anonymous Runnable running!
+2015-08-21 13:55:59 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:55:59 INFO  Main:27 - Anonymous Thread running
+2015-08-21 13:56:00 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:56:00 INFO  Main:51 - Runned by: MyThread
+2015-08-21 13:56:00 INFO  Main:40 - Anonymous Runnable running!
+2015-08-21 13:56:00 INFO  Main:27 - Anonymous Thread running
+2015-08-21 13:56:00 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:56:02 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:56:02 INFO  Main:51 - Runned by: MyThread
+2015-08-21 13:56:02 INFO  Main:40 - Anonymous Runnable running!
+2015-08-21 13:56:02 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:56:02 INFO  Main:27 - Anonymous Thread running
+2015-08-21 13:56:03 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:56:04 INFO  Main:51 - Runned by: MyThread
+2015-08-21 13:56:04 INFO  Main:40 - Anonymous Runnable running!
+2015-08-21 13:56:03 INFO  Main:27 - Anonymous Thread running
+2015-08-21 13:56:03 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:57:22 DEBUG MyThread:16 - MyThread running!
+2015-08-21 13:57:23 INFO  Main:29 - Anonymous Thread running
+2015-08-21 13:57:23 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 13:57:24 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 13:57:24 INFO  Main:56 - Runned by: MyThread
+2015-08-21 14:06:49 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:06:49 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:06:50 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:06:50 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:06:51 INFO  Main:56 - Runned by: MyThread
+2015-08-21 14:07:05 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:07:06 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:07:06 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:07:07 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:07:07 INFO  Main:56 - Runned by: MyThread
+2015-08-21 14:07:40 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:07:40 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:07:41 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:07:41 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:07:42 INFO  Main:56 - Runned by: MyThread
+2015-08-21 14:09:18 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:09:19 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:09:19 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:09:20 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:09:20 INFO  Main:56 - Runned by: MyThread
+2015-08-21 14:10:14 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:10:15 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:10:15 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:10:16 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:10:16 INFO  Main:56 - Runned by: MyThread
+2015-08-21 14:10:22 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:10:22 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:10:23 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:10:23 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:10:24 INFO  Main:56 - Runned by: MyThread
+2015-08-21 14:10:51 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:10:51 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:10:52 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:10:52 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:10:53 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:13:07 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:13:07 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:13:08 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:13:08 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:13:09 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:13:30 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:13:30 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:13:31 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:13:31 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:13:32 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:16:07 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:16:07 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:16:08 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:16:08 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:16:09 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:16:47 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:16:47 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:16:48 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:16:48 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:16:49 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:16:59 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:17:00 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:17:00 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:17:01 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:17:01 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:17:07 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:17:08 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:17:08 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:17:09 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:17:09 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:17:21 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:17:22 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:17:22 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:17:23 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:17:23 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:18:50 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:18:51 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:18:51 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:18:52 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:18:52 INFO  Main:56 - Run by: MyThread
+2015-08-21 14:22:20 DEBUG MyThread:16 - MyThread running!
+2015-08-21 14:22:21 INFO  Main:29 - Anonymous Thread running
+2015-08-21 14:22:21 INFO  MyRunnable:15 - MyRunnable running!
+2015-08-21 14:22:22 INFO  Main:44 - Anonymous Runnable running!
+2015-08-21 14:22:22 INFO  Main:56 - Run by: MyThread
+2015-08-21 15:37:36 INFO  Main:21 - Counter is equals to 90
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:21 - Counter is equals to 0
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:38:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:39:12 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:39:13 INFO  Main:22 - Counter is equals to 90
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:26 INFO  Main:22 - Counter is equals to 90
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:30 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:31 INFO  Main:22 - Counter is equals to 90
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:35 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:36 INFO  Main:22 - Counter is equals to 90
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:42 INFO  Main:22 - Counter is equals to 90
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-0 is running
+2015-08-21 15:40:46 INFO  Main:26 - Thread Thread-1 is running
+2015-08-21 15:40:46 INFO  Main:22 - Counter is equals to 90
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-21 15:41:15 INFO  Main:22 - Counter is equals to 90
+2015-08-24 14:43:59 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:44:50 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:46:31 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:47:11 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:47:24 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:47:44 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:48:56 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:50:21 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 14:50:34 INFO  MarketNews:22 - Obtaining news...
+2015-08-24 15:47:50 INFO  MarketNews:29 - Obtaining news...
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-0 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Thread Thread-1 is running
+2015-08-24 15:47:56 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:12 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:33 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:33 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:50 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:49:53 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:16 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:19 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:48 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:48 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:50:50 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:50:59 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:11 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:13 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:15 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:15 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:51:17 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:24 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:38 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:38 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:42 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:45 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:52:47 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:52:47 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:52:52 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-0 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:27 - Thread Thread-1 is running
+2015-08-24 15:53:35 INFO  Main:24 - Counter is equals to 90
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-0 is running
+2015-08-24 15:53:42 INFO  Main:32 - Thread Thread-1 is running
+2015-08-24 15:53:42 INFO  Main:28 - Counter is equals to 90
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:15 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:45 INFO  Main:31 - Thread Thread-1 is running
+2015-08-24 15:58:50 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:58:55 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:59:00 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:59:05 INFO  Main:31 - Thread Thread-0 is running
+2015-08-24 15:59:10 INFO  Main:31 - Thread Thread-0 is running
+2015-08-25 13:33:37 INFO  Main:25 - Thread waited: 3  seconds
+
+2015-08-25 13:33:37 INFO  Main:25 - Thread waited: 4  seconds
+
+2015-08-25 13:33:41 INFO  Main:25 - Thread waited: 3  seconds
+
+2015-08-25 13:33:42 INFO  Main:25 - Thread waited: 8  seconds
+
+2015-08-25 13:33:42 INFO  Main:25 - Thread waited: 1  seconds
+
+2015-08-25 13:33:43 INFO  Main:25 - Thread waited: 5  seconds
+
+2015-08-25 13:33:43 INFO  Main:25 - Thread waited: 1  seconds
+
+2015-08-25 13:33:44 INFO  Main:25 - Thread waited: 1  seconds
+
+2015-08-25 13:33:45 INFO  Main:25 - Thread waited: 1  seconds
+
+2015-08-25 13:34:09 INFO  Main:23 - Started
+2015-08-25 13:34:15 INFO  Main:26 - Thread waited: 6  seconds
+2015-08-25 13:34:16 INFO  Main:26 - Thread waited: 1  seconds
+2015-08-25 13:34:17 INFO  Main:26 - Thread waited: 8  seconds
+2015-08-25 13:34:18 INFO  Main:26 - Thread waited: 9  seconds
+2015-08-25 13:34:21 INFO  Main:26 - Thread waited: 4  seconds
+2015-08-25 13:34:22 INFO  Main:26 - Thread waited: 0  seconds
+2015-08-25 13:34:23 INFO  Main:26 - Thread waited: 6  seconds
+2015-08-25 13:34:23 INFO  Main:26 - Thread waited: 0  seconds
+2015-08-25 13:34:24 INFO  Main:26 - Thread waited: 5  seconds
+2015-08-25 13:40:05 INFO  Main:23 - Started
+2015-08-25 13:40:47 INFO  Main:23 - Started
+2015-08-25 13:40:48 INFO  Main:26 - Thread waited: 1  seconds
+2015-08-25 13:40:50 INFO  Main:26 - Thread waited: 3  seconds
+2015-08-25 13:40:51 INFO  Main:26 - Thread waited: 0  seconds
+2015-08-25 13:41:37 INFO  Main:20 - Executed!
+2015-08-25 13:41:39 INFO  Main:20 - Executed!
+2015-08-25 13:41:40 INFO  Main:20 - Executed!
+2015-08-25 13:41:41 INFO  Main:20 - Executed!
+2015-08-25 13:41:42 INFO  Main:20 - Executed!
+2015-08-25 13:41:42 INFO  Main:20 - Executed!
+2015-08-25 13:41:43 INFO  Main:20 - Executed!
+2015-08-25 13:41:46 INFO  Main:20 - Executed!
+2015-08-25 13:41:46 INFO  Main:20 - Executed!
+2015-08-25 13:41:46 INFO  Main:20 - Executed!
+2015-08-25 13:42:17 INFO  Main:20 - Executed!
+2015-08-25 13:42:17 INFO  Main:20 - Executed!
+2015-08-25 13:42:18 INFO  Main:20 - Executed!
+2015-08-25 13:42:20 INFO  Main:20 - Executed!
+2015-08-25 13:42:20 INFO  Main:20 - Executed!
+2015-08-25 13:42:21 INFO  Main:20 - Executed!
+2015-08-25 13:42:21 INFO  Main:20 - Executed!
+2015-08-25 13:42:22 INFO  Main:20 - Executed!
+2015-08-25 13:42:26 INFO  Main:20 - Executed!
+2015-08-25 13:42:26 INFO  Main:20 - Executed!
